@@ -2,3 +2,6 @@ header .container {
     padding-bottom: 80px;
     padding-top: 0;
 }
+.contact {
+  font-size: 2em;
+}
